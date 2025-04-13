@@ -7,3 +7,5 @@ scikit-learn
 nltk
 Sastrawi
 wordcloud
+requests
+gensim
